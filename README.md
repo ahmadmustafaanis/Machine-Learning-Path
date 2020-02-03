@@ -25,7 +25,7 @@
 ### Data Analysis and visulization 
 * [Python for Data Analysis](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/) (not free worth buying)
 * [Data Analysis with Python IBM](https://www.coursera.org/learn/data-analysis-with-python) (Free to Audit)
-* [Python for Research by HarvardX)[https://www.edx.org/course/using-python-for-research] (Free to Audit)
+* [Python for Research by HarvardX][https://www.edx.org/course/using-python-for-research] (Free to Audit)
 #### Books for Data Analysis and Visulization
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (By Creater of Pandas Library)
 * [Python Data Science HandBook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)
