@@ -30,7 +30,7 @@
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) (By Creater of Pandas Library)
 * [Python Data Science HandBook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)
 
-### Machine Learning (in order)
+## Machine Learning (in order)
 1. [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)
 2. [Deep Learning Specilzation](https://www.coursera.org/specializations/deep-learning?) (Free to Audit)
 3. [CS 224 Natural Language Processing by Stanford](http://web.stanford.edu/class/cs224n/)
